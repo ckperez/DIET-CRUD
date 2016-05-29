@@ -1,0 +1,23 @@
+{
+  "name": "DIET-CRUD",
+  "version": "1.0.0",
+  "description": "Making a simple crud app with the Diet.js framework to check things out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckperez/DIET-CRUD.git"
+  },
+  "keywords": [],
+  "author": "Chris Perez <chris.k.perez@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckperez/DIET-CRUD/issues"
+  },
+  "homepage": "https://github.com/ckperez/DIET-CRUD#readme",
+  "dependencies": {
+    "diet": "^0.10.7"
+  }
+}
